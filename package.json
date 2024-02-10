@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "modern-normalize": "^2.0.0"
+  }
+}
